@@ -1,2 +1,2 @@
 # TyBruceChen-Repository-Link
-Other projects link from my personal account: TyBruceChen
+Other projects [link](https://github.com/TyBruceChen?tab=repositories) from my personal account: TyBruceChen
